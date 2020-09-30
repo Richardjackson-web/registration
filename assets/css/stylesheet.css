@@ -1,0 +1,22 @@
+/* @media screen and (max-width: 360px) {
+   .con{
+       text-align:center
+} */
+
+.hero{
+    background-image: url(/assets/img/IMG-20190727-WA0003.jpg);
+    background-size: cover;
+    background-color: rgb(83, 83, 83);
+    background-blend-mode: overlay;
+}
+.container{
+
+    background-color: purple !important;
+}
+.main{
+    background-color: purple !important;
+}
+.con{
+    font-size: 30px;
+    
+}
