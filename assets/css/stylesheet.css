@@ -11,10 +11,10 @@
 }
 .container{
 
-    background-color: purple !important;
+    background-color: rgb(240, 234, 234) !important;
 }
 .main{
-    background-color: purple !important;
+    background-color: rgb(240, 234, 234) !important;
 }
 .con{
     font-size: 20px;
@@ -28,4 +28,7 @@
 }
 .fill{
     text-decoration: underline;
+}
+.invent{
+    text-align: center;
 }
