@@ -17,7 +17,7 @@
     background-color: rgb(240, 234, 234) !important;
 }
 .con{
-    font-size: 20px;
+    font-size: 18px;
     
 }
 .leader{
@@ -25,6 +25,7 @@
 }
 .lorem{
     text-align: justify;
+    font-size: 18px;
 }
 .fill{
     text-decoration: underline;
